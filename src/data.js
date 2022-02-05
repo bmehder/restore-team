@@ -110,7 +110,7 @@ export const data = [
         name: 'Cheyann Solorio',
         title: 'Clinic Manager',
         href: null,
-        src: 'https://restoreosteo.com/wp-content/uploads/2021/07/cheyann-solorio-patient-care-coordinator-restoreosteo.jpg',
+        src: 'https://restoreosteo.com/wp-content/uploads/2022/02/cheyann-solorio-patient-care-coordinator-restore-osteo.jpg',
       },
       {
         name: 'Jennifer Flickinger, NP',
