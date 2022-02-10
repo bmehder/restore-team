@@ -37,12 +37,6 @@ export const data = [
         href: null,
         src: 'https://restoreosteo.com/wp-content/uploads/2021/05/becca-johnson.png',
       },
-      {
-        name: 'Ritu Patel, NP',
-        title: 'Nurse Practitioner',
-        href: 'https://restoreosteo.com/our-team/ritu-patel/',
-        src: 'https://restoreosteo.com/wp-content/uploads/2021/05/ritu-patel.jpg',
-      },
     ],
   },
   {
@@ -59,12 +53,6 @@ export const data = [
         title: 'Patient Care Coordinator',
         href: null,
         src: 'https://restoreosteo.com/wp-content/uploads/2021/10/alyse-spears.jpg',
-      },
-      {
-        name: 'Rosha Dhakal, NP',
-        title: 'Nurse Practitioner',
-        href: 'https://restoreosteo.com/our-team/rosha-dhakal/',
-        src: 'https://restoreosteo.com/wp-content/uploads/2021/05/rosha-dhakal.jog_.jpg',
       },
       {
         name: 'Eva Mejia, MA',
@@ -113,10 +101,10 @@ export const data = [
         src: 'https://restoreosteo.com/wp-content/uploads/2022/02/cheyann-solorio-patient-care-coordinator-restore-osteo.jpg',
       },
       {
-        name: 'Jennifer Flickinger, NP',
-        title: 'Nurse Practitioner',
-        href: 'https://restoreosteo.com/our-team/jennifer-flickinger/',
-        src: 'https://restoreosteo.com/wp-content/uploads/2021/05/jenny-flickinger.png',
+        name: 'Hannah Smith',
+        title: 'Patient Care Coordinator',
+        href: null,
+        src: 'https://restoreosteo.com/wp-content/uploads/2022/02/hannah-smithpatient-care-coordinator-restore-osteo.jpg',
       },
       {
         name: 'Kristen Shults, FNP-C',
