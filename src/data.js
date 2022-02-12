@@ -69,7 +69,7 @@ export const data = [
       {
         name: 'Christina Sternitzke, PA',
         title: 'Physician Assistant',
-        href: null,
+        href: 'https://restoreosteo.com/our-team/christina-sternitzke-pa/',
         src: 'https://restoreosteo.com/wp-content/uploads/2021/11/christina-sternitzke-restore-osteo-of-colorado.jpg',
       },
     ],
