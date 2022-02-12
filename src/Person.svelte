@@ -22,7 +22,7 @@
 
 <style>
   article {
-    width: 200px;
+    width: 210px;
     margin-bottom: 2rem;
     text-align: center;
   }
