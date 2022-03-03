@@ -55,6 +55,12 @@ export const data = [
         src: 'https://restoreosteo.com/wp-content/uploads/2021/10/alyse-spears.jpg',
       },
       {
+        name: 'Jennifer Henderson',
+        title: 'Adult-Gerontology Acute Care Nurse Practitioner',
+        href: 'https://restoreosteo.com/our-team/jennifer-henderson/',
+        src: 'https://restoreosteo.com/wp-content/uploads/2022/03/jennifer-henderson-restore-osteo.jpg',
+      },
+      {
         name: 'Eva Mejia, MA',
         title: 'Medical Assistant',
         href: null,
