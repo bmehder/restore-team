@@ -37,6 +37,12 @@ export const data = [
         href: null,
         src: 'https://restoreosteo.com/wp-content/uploads/2021/05/becca-johnson.png',
       },
+      {
+        name: 'Stephanie Lillibridge, AGPCNP-BC',
+        title: 'Adult-Gerontology Primary Care Nurse Practitioner ',
+        href: 'https://restoreosteo.com/our-team/stephanie-lillibridge-agpcnp-bc/',
+        src: 'https://restoreosteo.com/wp-content/uploads/2022/03/stephanie-lillibridge-restore-osteo-of-colorado.jpg',
+      },
     ],
   },
   {
@@ -69,8 +75,8 @@ export const data = [
       {
         name: 'Ari Globerman, DPT, PT, Certified Advanced Rolfer®',
         title: 'Doctor Physical Therapy',
-        href: null,
-        src: 'https://restoreosteo.com/wp-content/uploads/2022/03/ari-globerman-restore-osteo-of-colorado.jpg',
+        href: 'https://restoreosteo.com/our-team/ari-globerman/',
+        src: 'https://restoreosteo.com/wp-content/uploads/2022/03/ari-globerman-restore-osteo-of-colorado-1.jpg',
       },
       {
         name: 'Eva Mejia, MA',
@@ -94,6 +100,12 @@ export const data = [
         title: 'Clinic Manager',
         href: null,
         src: 'https://restoreosteo.com/wp-content/uploads/2021/10/carla-mendoza-ma-medical-assistant-for-thornton-restor-osteo-of-colorao.jpg',
+      },
+      {
+        name: 'Krystal Goodman',
+        title: 'Patient Care Coordinator',
+        href: null,
+        src: 'https://restoreosteo.com/wp-content/uploads/2022/03/krystal-goodman-restore-osteo-of-colorado.jpg',
       },
       {
         name: 'Annie Floyd, NP',
