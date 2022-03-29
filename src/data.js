@@ -111,7 +111,7 @@ export const data = [
         name: 'Annie Floyd, NP',
         title: 'Nurse Practitioner',
         href: 'https://restoreosteo.com/our-team/annie-floyd/',
-        src: 'https://restoreosteo.com/wp-content/uploads/2021/06/our-providers-annie-floyd.png',
+        src: 'https://restoreosteo.com/wp-content/uploads/2022/03/annie-floyd-restore-osteo.jpg',
       },
     ],
   },
