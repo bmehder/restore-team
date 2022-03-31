@@ -78,12 +78,12 @@ export const data = [
         href: 'https://restoreosteo.com/our-team/ari-globerman/',
         src: 'https://restoreosteo.com/wp-content/uploads/2022/03/ari-globerman-restore-osteo-of-colorado-1.jpg',
       },
-      {
-        name: 'Eva Mejia, MA',
-        title: 'Medical Assistant',
-        href: null,
-        src: 'https://restoreosteo.com/wp-content/uploads/2021/05/eve-mejia.png',
-      },
+      // {
+      //   name: 'Eva Mejia, MA',
+      //   title: 'Medical Assistant',
+      //   href: null,
+      //   src: 'https://restoreosteo.com/wp-content/uploads/2021/05/eve-mejia.png',
+      // },
       {
         name: 'Sara Caliga, MA',
         title: 'Medical Assistant',
