@@ -78,12 +78,12 @@ export const data = [
         href: 'https://restoreosteo.com/our-team/john-moore/',
         src: 'https://restoreosteo.com/wp-content/uploads/2022/04/john-moore.jpg',
       },
-      {
-        name: 'Christina Sternitzke, PA',
-        title: 'Physician Assistant',
-        href: 'https://restoreosteo.com/our-team/christina-sternitzke-pa/',
-        src: 'https://restoreosteo.com/wp-content/uploads/2021/11/christina-sternitzke-restore-osteo-of-colorado.jpg',
-      },
+      // {
+      //   name: 'Christina Sternitzke, PA',
+      //   title: 'Physician Assistant',
+      //   href: 'https://restoreosteo.com/our-team/christina-sternitzke-pa/',
+      //   src: 'https://restoreosteo.com/wp-content/uploads/2021/11/christina-sternitzke-restore-osteo-of-colorado.jpg',
+      // },
       {
         name: 'Sara Caliga, MA',
         title: 'Medical Assistant',
