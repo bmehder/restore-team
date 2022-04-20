@@ -39,9 +39,15 @@ export const data = [
       },
       {
         name: 'Stephanie Lillibridge, AGPCNP-BC',
-        title: 'Adult-Gerontology Primary Care Nurse Practitioner ',
+        title: 'Adult-Gerontology Primary Care Nurse Practitioner',
         href: 'https://restoreosteo.com/our-team/stephanie-lillibridge-agpcnp-bc/',
         src: 'https://restoreosteo.com/wp-content/uploads/2022/03/stephanie-lillibridge-restore-osteo-of-colorado.jpg',
+      },
+      {
+        name: 'Bryan Duran, PT, DPT',
+        title: 'Physical Therapist',
+        href: 'https://restoreosteo.com/our-team/bryan-duran-pt-dpt/',
+        src: 'https://restoreosteo.com/wp-content/uploads/2022/04/bryan-duran.jpg',
       },
     ],
   },
